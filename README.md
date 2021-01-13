@@ -1,5 +1,5 @@
 # DataScienceCoolStuff
-Data Visulazation through various famous datasets
+Data Visualization through various famous datasets
 
 
 Link: https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
